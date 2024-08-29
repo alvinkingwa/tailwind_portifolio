@@ -17,7 +17,11 @@ export class ProjectComponent {
     role: 'Full Stack Developer',
     githubUrl: 'https://github.com/alvinkingwa/expense-budget-app-container',
     github:'https://github.com/alvinkingwa',
+<<<<<<< HEAD
     demoUrl: 'https://simplebudgetapp.netlify.app/',
+=======
+    demoUrl: 'https://alvinkingwa.netlify.app',
+>>>>>>> a802635411ccafd3e75fbd6b3767580efa5dea4d
     details: [
       'Allows users to create and manage budgets for different categories',
       'Tracks expenses and income with easy-to-use input forms',
